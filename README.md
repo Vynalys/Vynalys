@@ -5,7 +5,7 @@
 - Learning C++ for Unreal Engine*, *C# for Unity* and a little bit of Java at the moment.
 - You can reach me through my E-Mail: _maximiliannrabe@gmail.com_
 
-Uni Projects can be found below.
+Uni Projects can be found below.\n
 https://github.com/ladi-dadi-hari/eHealth
 https://github.com/meowosaurus/FraUASNotes
 <!---
